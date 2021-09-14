@@ -1,11 +1,16 @@
 _repo: Ticket-to-the-Stars_66245
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66245-h/images/cover.jpg
 creator:
   author:
     agent_name: Banks, Raymond E.
     gutenberg_agent_id: '53702'
     url: http://www.gutenberg.org/2009/agents/53702
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66245#Ticket-to-the-Stars
 gutenberg_issued: '2021-09-08'
 identifiers:
   gutenberg: '66245'
